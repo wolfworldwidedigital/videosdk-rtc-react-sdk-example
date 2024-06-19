@@ -59,7 +59,7 @@ cp.env.example.env;
 Generate temporary token from [Video SDK Account](https://app.videosdk.live/signup).
 
 ```js title=".env"
-REACT_APP_VIDEOSDK_TOKEN = "TEMPORARY-TOKEN";
+REACT_APP_VIDEOSDK_TOKEN = "REACT_APP_VIDEOSDK_TOKEN";
 ```
 
 ### Step 4: Install the dependecies
